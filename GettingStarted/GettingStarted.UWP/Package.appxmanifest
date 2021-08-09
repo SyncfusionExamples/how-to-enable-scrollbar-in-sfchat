@@ -7,7 +7,7 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="51c39e3e-e415-433a-9c5a-39e3f80168d9"
+    Name="51c39e3e-e415-433a-9c5a-39e3f83"
     Publisher="CN=135300c5-470c-490c-97ae-8ef06f961c2b"
     Version="1.0.0.0" />
 
@@ -15,7 +15,7 @@
 
   <Properties>
     <DisplayName>GettingStarted.UWP</DisplayName>
-    <PublisherDisplayName>135300c5-470c-490c-97ae-8ef06f961c2b</PublisherDisplayName>
+    <PublisherDisplayName>135300c5-470c-490c-97ae-8ef06f</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
 

@@ -142,7 +142,6 @@
       <SubType>Designer</SubType>
     </Content>
     <Content Include="Properties\Default.rd.xml" />
-    <Content Include="sticker_icon.png" />
   </ItemGroup>
   <ItemGroup>
     <ApplicationDefinition Include="App.xaml">
